@@ -1,0 +1,23 @@
+body{
+    text-align: center
+        
+}
+#app{
+    background-color: coral
+}
+
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9)
+}
+    
+#game{
+    background-color: chocolate 
+}
+
+
+
+
+
